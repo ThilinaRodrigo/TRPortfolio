@@ -39,7 +39,7 @@ export const skills = [
       items: [
         { name: "HTML5", icon: SiHtml5 },
         { name: "CSS3", icon: SiCss3 },
-        { name: "JavaScript (ES6+)", icon: SiJavascript },
+        { name: "JavaScript", icon: SiJavascript },
         { name: "React", icon: SiReact },
         { name: "React Native", icon: TbBrandReactNative },
         { name: "Tailwind CSS", icon: SiTailwindcss },

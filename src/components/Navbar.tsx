@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-scroll";
 import logo from "../assets/logo.png";
 import { HiMenu, HiX, HiDownload } from "react-icons/hi";
-import resume from "../data/cv/thilinaRodrigo.pdf";
+import resume from "../data/cv/thilinaRodrigo_cv.pdf";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

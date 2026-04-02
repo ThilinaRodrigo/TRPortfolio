@@ -4,7 +4,7 @@ import my1 from "../../assets/main/my1.png";
 import { FaGithub, FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa";
 import { HiDownload } from "react-icons/hi";
 import { profiles } from "../../data/profiles";
-import resume from "../../data/cv/thilinaRodrigo.pdf";
+import resume from "../../data/cv/thilinaRodrigo_cv.pdf";
 
 const Hero: React.FC = () => {
   return (
